@@ -1,0 +1,9 @@
+C:\Users\KONGNYUY\Desktop\C#\Calcuator\Calcuator\bin\Debug\Calcuator.exe.config
+C:\Users\KONGNYUY\Desktop\C#\Calcuator\Calcuator\bin\Debug\Calcuator.exe
+C:\Users\KONGNYUY\Desktop\C#\Calcuator\Calcuator\bin\Debug\Calcuator.pdb
+C:\Users\KONGNYUY\Desktop\C#\Calcuator\Calcuator\obj\Debug\Calcuator.csprojResolveAssemblyReference.cache
+C:\Users\KONGNYUY\Desktop\C#\Calcuator\Calcuator\obj\Debug\Calcuator.Calculator.resources
+C:\Users\KONGNYUY\Desktop\C#\Calcuator\Calcuator\obj\Debug\Calcuator.Properties.Resources.resources
+C:\Users\KONGNYUY\Desktop\C#\Calcuator\Calcuator\obj\Debug\Calcuator.csproj.GenerateResource.Cache
+C:\Users\KONGNYUY\Desktop\C#\Calcuator\Calcuator\obj\Debug\Calcuator.exe
+C:\Users\KONGNYUY\Desktop\C#\Calcuator\Calcuator\obj\Debug\Calcuator.pdb
